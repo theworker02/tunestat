@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tunestat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tune host/stat network string helpers for config audits.",
+  "bin": {
+    "tunestat": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tunestat.git"
+  },
+  "homepage": "https://theworker02.github.io/tunestat/",
+  "keywords": [
+    "tune",
+    "stat",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
